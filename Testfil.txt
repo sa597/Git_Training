@@ -1,5 +1,4 @@
 Hi There, this is git training begining session
 
 This is another commit
-
 Added authentication token
